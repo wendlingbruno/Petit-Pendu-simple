@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+
+#wrapper{
+    width: 1400px;
+    text-align: center;
+    margin: auto;
+}
+
+#jeu{
+    font-size: 2em;
+    letter-spacing: 5px;
+}
+
+#bouton{
+    margin-top: 10px;
+    background-color: rgb(248, 66, 66);
+    border: 2px solid rgb(247, 169, 169);
+}
+
+.invisible{
+    display: none;
+}

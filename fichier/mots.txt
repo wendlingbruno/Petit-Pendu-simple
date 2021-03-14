@@ -1,0 +1,9 @@
+bonjour
+bonsoir
+feuille
+morpion
+table
+boite
+porte
+ordinateur
+clavier
